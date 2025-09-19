@@ -2,6 +2,7 @@
 
 name: Java Maven Build & Publish Artifact
 
+
 on:
   push:
     branches: [ "main" ]
